@@ -1,2 +1,2 @@
 # DIO
-Projetos
+Coloco aqui os Projetos e exercícios da DIO.
