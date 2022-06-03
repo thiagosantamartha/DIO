@@ -1,4 +1,4 @@
-const BASE_URL = 'https://thatcopy.pw/catapi/rest/';
+const BASE_URL = 'https://thatcopy.pw/catapi/rest/ ';
 const catBtn = document.getElementById('change-cat');
 
 const getCats = async () => {
